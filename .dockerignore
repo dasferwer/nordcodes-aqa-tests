@@ -1,0 +1,10 @@
+.git
+target
+.allure
+.idea
+*.jar
+*.zip
+*.7z
+*.log
+.env
+.DS_Store

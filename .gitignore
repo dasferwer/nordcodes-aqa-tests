@@ -1,0 +1,10 @@
+/target/
+/.allure/
+/.idea/
+*.iml
+.DS_Store
+*.jar
+*.zip
+*.7z
+*.log
+.env
